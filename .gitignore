@@ -1,0 +1,6 @@
+*
+!.gitignore
+!env_list.txt
+!env_runner.sh
+!env_script.py
+!README.md
