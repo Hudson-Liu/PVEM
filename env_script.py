@@ -28,7 +28,7 @@ BANNER = colored("""
 ███████║███████╗███████╗███████╗╚██████╗   ██║        ╚████╔╝ ███████╗██║ ╚████║ ╚████╔╝ 
 ╚══════╝╚══════╝╚══════╝╚══════╝ ╚═════╝   ╚═╝         ╚═══╝  ╚══════╝╚═╝  ╚═══╝  ╚═══╝ 
 """, "blue")
-HEADER = HEADER = (colored("=========================[", attrs=["bold"]) +
+HEADER = (colored("=========================[", attrs=["bold"]) +
 	colored("An Environment Selector by Hudson Liu", "blue", attrs=["bold"]) +
 	colored("]=========================", attrs=["bold"]))
 print(BANNER + HEADER)
